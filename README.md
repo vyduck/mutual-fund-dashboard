@@ -24,6 +24,12 @@ Welcome to the **Mutual Funds Dashboard** – a showcase project designed to dem
 - **View Fund (`/view-fund/:fundName`)**  
   Displays detailed information about a specific fund. Showcases dynamic routing, parameter handling, and data-driven UI.
 
+## 📊 Sample Data
+
+For demonstration purposes, sample mutual fund data is provided in  
+`public/sample-funds.json`.  
+The dashboard loads and displays this data so you can explore all features without any setup.
+
 ## 🏃‍♂️ How to Run
 
 1. **Install dependencies**  
@@ -37,4 +43,8 @@ Welcome to the **Mutual Funds Dashboard** – a showcase project designed to dem
    ```
 
 3. Open your browser and navigate to `http://localhost:5173` (or the port shown in your terminal).
+
+---
+
+Explore the code, review the architecture, and see how modern frontend skills come together to create a powerful and user-centric application. Your feedback and insights are invaluable – let's connect!
 
