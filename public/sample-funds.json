@@ -1,0 +1,94 @@
+{
+    "fund-1": {
+        "id": "fund-1",
+        "name": "Alpha Growth Fund",
+        "category": "Equity",
+        "sub_category": "Large Cap",
+        "risk_level": "High",
+        "price_per_unit": 145.2,
+        "last_updated": "2025-09-03",
+        "benchmark": "Nifty 50",
+        "expense_ratio": 1.2,
+        "returns": {
+            "1Y": 12.5,
+            "3Y": 14.8,
+            "5Y": 17.3
+        },
+        "holdings": [
+            { "label": "Reliance Industries", "type": "Stock", "units": 1000, "price_per_unit": 2400, "total": 2400000 },
+            { "label": "Infosys", "type": "Stock", "units": 800, "price_per_unit": 1600, "total": 1280000 },
+            { "label": "HDFC Bank", "type": "Stock", "units": 600, "price_per_unit": 1700, "total": 1020000 },
+            { "label": "Cash Reserve", "type": "Cash", "total": 500000 }
+        ],
+        "portfolio_value": 5200000
+    },
+    "fund-2": {
+        "id": "fund-2",
+        "name": "Secure Debt Fund",
+        "category": "Debt",
+        "sub_category": "Government Securities",
+        "risk_level": "Low",
+        "price_per_unit": 28.7,
+        "last_updated": "2025-09-03",
+        "benchmark": "10Y G-Sec",
+        "expense_ratio": 0.6,
+        "returns": {
+            "1Y": 6.2,
+            "3Y": 7.1,
+            "5Y": 7.8
+        },
+        "holdings": [
+            { "label": "Government of India Bond 2030", "type": "Bond", "units": 10000, "price_per_unit": 1020, "total": 10200000 },
+            { "label": "State Development Loan 2029", "type": "Bond", "units": 5000, "price_per_unit": 1015, "total": 5075000 },
+            { "label": "Cash Reserve", "type": "Cash", "total": 2000000 }
+        ],
+        "portfolio_value": 17275000
+    },
+    "fund-3": {
+        "id": "fund-3",
+        "name": "Balanced Advantage Fund",
+        "category": "Hybrid",
+        "sub_category": "Dynamic Allocation",
+        "risk_level": "Medium",
+        "price_per_unit": 74.3,
+        "last_updated": "2025-09-03",
+        "benchmark": "CRISIL Hybrid 50+50 Index",
+        "expense_ratio": 1.0,
+        "returns": {
+            "1Y": 9.1,
+            "3Y": 11.2,
+            "5Y": 13.5
+        },
+        "holdings": [
+            { "label": "ICICI Bank", "type": "Stock", "units": 400, "price_per_unit": 950, "total": 380000 },
+            { "label": "TCS", "type": "Stock", "units": 200, "price_per_unit": 3500, "total": 700000 },
+            { "label": "Corporate Bond AAA", "type": "Bond", "units": 2000, "price_per_unit": 1000, "total": 2000000 },
+            { "label": "Cash Reserve", "type": "Cash", "total": 1000000 }
+        ],
+        "portfolio_value": 4080000
+    },
+    "fund-4": {
+        "id": "fund-4",
+        "name": "Index Tracker Fund",
+        "category": "Index",
+        "sub_category": "Nifty 50",
+        "risk_level": "High",
+        "price_per_unit": 215.6,
+        "last_updated": "2025-09-03",
+        "benchmark": "Nifty 50",
+        "expense_ratio": 0.3,
+        "returns": {
+            "1Y": 11.2,
+            "3Y": 13.9,
+            "5Y": 15.1
+        },
+        "holdings": [
+            { "label": "Reliance Industries", "type": "Stock", "units": 200, "price_per_unit": 2400, "total": 480000 },
+            { "label": "Infosys", "type": "Stock", "units": 150, "price_per_unit": 1600, "total": 240000 },
+            { "label": "HDFC Bank", "type": "Stock", "units": 100, "price_per_unit": 1700, "total": 170000 },
+            { "label": "ITC", "type": "Stock", "units": 300, "price_per_unit": 450, "total": 135000 },
+            { "label": "Cash Reserve", "type": "Cash", "total": 50000 }
+        ],
+        "portfolio_value": 1075000
+    }
+}
